@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+numpy
+opencv-python
+opencv-python-headless
+pyttsx3
+keras
+cvzone
+pyenchant
+Pillow
+pygame
+googletrans==4.0.0-rc1
+gTTS
+pyserial
+=======
+numpy
+opencv-python
+opencv-python-headless
+pyttsx3
+keras
+cvzone
+pyenchant
+Pillow
+pygame
+googletrans==4.0.0-rc1
+gTTS
+pyserial
+>>>>>>> f6ad058038ff994e68179139f8be41e5415178a5
